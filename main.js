@@ -12,6 +12,11 @@ const client = new Client({
 
 let pingCount = 0;
 
+require('dotenv').config(); // Load .env variables
+
+console.log("Client ID:", process.env.CLIENT_ID);
+console.log("Client Secret:", process.env.CLIENT_SECRET ? "Loaded" : "Not loaded");
+
 // Load saved counter from file
 if (fs.existsSync(counterFile)) {
     const data = fs.readFileSync(counterFile, 'utf-8');
