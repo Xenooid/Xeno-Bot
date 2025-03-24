@@ -4,8 +4,10 @@ This is a WhatsApp bot that integrates with the osu! API to fetch and display pl
 
 ## Features
 - Fetch osu! user profile statistics (`!osu` command)
-- Retrieve recent plays (`!recent` or `!rs` command)
+- Retrieve recent plays (`!rs` command)
+- Retrieve top 5 plays (`!top` command)
 - Supports multiple osu! game modes (`osu`, `taiko`, `fruits`, `mania`)
+- Any other commands like (`!command`, `!ping`, `!roll`, `!sticker/!s`, `!say`)
 
 ## Setup Instructions
 
@@ -32,9 +34,9 @@ OSU_CLIENT_SECRET=your_client_secret
 node main.js
 ```
 
-## Commands
+## Command Example
 
-### 1. `!osu <username>`
+### 1. `!osu <username> [mode]`
 Fetches osu! user profile stats.
 #### Example:
 ```bash
@@ -42,13 +44,15 @@ Fetches osu! user profile stats.
 ```
 #### Response:
 ```
+(https://osu.ppy.sh/users/123456)
+
 🎮 Player: Cookiezi (osu)
 🏆 Rank: #1
 🔢 PP: 15,000pp
 🎯 Accuracy: 99.87%
 ```
 
-### 2. `!recent <username>` or `!rs <username>`
+### 2. `!rs <username> [mode]`
 Fetches the most recent play of a user.
 #### Example:
 ```bash
