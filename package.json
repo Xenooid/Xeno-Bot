@@ -9,6 +9,7 @@
   "author": "Xenoid",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.26.0"
   }
