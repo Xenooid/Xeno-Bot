@@ -13,8 +13,8 @@ This is a WhatsApp bot that integrates with the osu! API to fetch and display pl
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Xenooid/Xeno-Bot.git
+cd Xeno-Bot
 ```
 
 ### 2. Install Dependencies
