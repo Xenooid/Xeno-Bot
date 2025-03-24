@@ -1,6 +1,6 @@
 # WhatsApp Bot for osu!
 
-This is a WhatsApp bot that integrates with the osu! API to fetch and display player statistics, recent plays, and best play comparisons.
+This is a WhatsApp bot that integrates with the osu! API to fetch and display player statistics, recent plays, and top play.
 
 ## Features
 - Fetch osu! user profile statistics (`!osu` command)
