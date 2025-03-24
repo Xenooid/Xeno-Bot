@@ -72,7 +72,7 @@ Fetches the most recent play of a user.
 ```
 
 ### 3. `!top <username> [mode]`
-Fetches the most recent play of a user.
+Fetches the top 5 plays of a user.
 #### Example:
 ```bash
 !top Redmooon mania
