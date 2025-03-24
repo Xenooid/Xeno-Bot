@@ -81,11 +81,11 @@ Fetches the top 5 plays of a user.
 ```
 🏆 Top 5 Best Scores for Redmooon (mania mode):
 
-1. (A) MIIRO [[4K] Poi] - 75.2206pp (Accuracy: 93.20%) - https://osu.ppy.sh/beatmaps/652299
-2. (A) Cirno Break [[4K] Frim's ADVANCED] - 57.8305pp (Accuracy: 94.71%) - https://osu.ppy.sh/beatmaps/646828
-3. (A) Mada, Aoi [[4K] Ysg's Hard] - 54.2666pp (Accuracy: 94.31%) - https://osu.ppy.sh/beatmaps/3748543
-4. (S) anemone [4K Hyper] - 50.0006pp (Accuracy: 98.20%) - https://osu.ppy.sh/beatmaps/644701
-5. (A) anemone [7K Hyper] - 39.5452pp (Accuracy: 92.62%) - https://osu.ppy.sh/beatmaps/644303
+1. (A) MIIRO [[4K] Poi] - 75.2pp (Accuracy: 93.20%) - https://osu.ppy.sh/beatmaps/652299
+2. (A) Cirno Break [[4K] Frim's ADVANCED] - 57.8pp (Accuracy: 94.71%) - https://osu.ppy.sh/beatmaps/646828
+3. (A) Mada, Aoi [[4K] Ysg's Hard] - 54.2pp (Accuracy: 94.31%) - https://osu.ppy.sh/beatmaps/3748543
+4. (S) anemone [4K Hyper] - 50.0pp (Accuracy: 98.20%) - https://osu.ppy.sh/beatmaps/644701
+5. (A) anemone [7K Hyper] - 39.5pp (Accuracy: 92.62%) - https://osu.ppy.sh/beatmaps/644303
 ```
 
 ## Contributing
