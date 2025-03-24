@@ -25,8 +25,8 @@ npm install
 ### 3. Configure osu! API Credentials
 Create a `.env` file and add your osu! API credentials:
 ```env
-OSU_CLIENT_ID=your_client_id
-OSU_CLIENT_SECRET=your_client_secret
+CLIENT_ID=your_client_id
+CLIENT_SECRET=your_client_secret
 ```
 
 ### 4. Run the Bot
