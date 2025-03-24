@@ -1,12 +1,12 @@
 {
-  "name": "kentutkuda",
+  "name": "Xeno-Bot",
   "version": "1.0.0",
   "description": "",
-  "main": "kentutkuda.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "senoit",
+  "author": "Xenoid",
   "license": "ISC",
   "dependencies": {
     "qrcode-terminal": "^0.12.0",
